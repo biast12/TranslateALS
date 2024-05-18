@@ -541,5 +541,19 @@
   "NO_GAME_RUNNING": "Ingen spil kører i øjeblikket.",
   "AUTO_UPDATE": "Denne side vil automatisk opdatere, når spillet starter.",
   "TOURSEARCH_DESC_META": "Apex Legends turneringshistorie søgning",
-  "TOURVIEW_DESC_META": "%s Statistikker på DGS af Apex Legends Status"
+  "TOURVIEW_DESC_META": "%s Statistikker på DGS af Apex Legends Status",
+  "CLAIMS_ON_RECORD": "%s krav i arkivet",
+  "IMPORT_TEAMS_ALGS": "Importer Teams / ALGS Drops",
+  "LOBBY_SETTINGS": "Lobbyindstillinger",
+  "CHANGE_PLAYLIST": "Skift Playliste",
+  "IMPORT_TEAMS_FROM_PICKER": "Importer Teams fra Landing Spot Picker",
+  "USE_ALGS_DROPS": "Brug ALGS Drops System (spawn på POI)",
+  "ALGS_DROPS_EA": "ALGS Drops System er kun tilgængeligt, når du bruger EA/Respawn leverede lobbykoder og efter at have valgt ALGS playlisten.",
+  "ALGS_DROPS_WARNING": "Sørg for også at vælge en ALGS Playliste (enten Storm Point eller World's Edge) hvis du bruger ALGS Drops System!",
+  "PLAYLIST": "Playliste",
+  "TEAM_RENAME": "Omdøb Team",
+  "SELF_ASSIGN": "Selv-tildel",
+  "AIM_ASSIST": "Sigteassistance",
+  "ADMIN_ONLY_CHAT": "Kun admin chat",
+  "ANONYMOUS_MODE": "Anonym tilstand"
 }
