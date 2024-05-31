@@ -555,5 +555,16 @@
   "SELF_ASSIGN": "Selv-tildel",
   "AIM_ASSIST": "Sigteassistance",
   "ADMIN_ONLY_CHAT": "Kun admin chat",
-  "ANONYMOUS_MODE": "Anonym tilstand"
+  "ANONYMOUS_MODE": "Anonym tilstand",
+  "DGS_HELPER_SHORT": "DGS Hjælper",
+  "DGS_HELPER_SOFT": "DGS Hjælper Software",
+  "DGS_HELPER_SOFT_DESC": "DGS Hjælper Software - Gem lokalt dine brugerdefinerede spil JSON-filer på din computer",
+  "DGS_HELPER_SOFT_PRES": "DGS Hjælper Software giver dig mulighed for at gemme dine brugerdefinerede spildata i JSON-filer på din computer, som det var muligt før sæson 21. Dette er tænkt som en failsafe i tilfælde af netværksustabiliteter mellem din spilklient og DGS-serverne, hvilket giver dig mulighed for manuelt at uploade data fra din arrangørportal, hvis det er nødvendigt.",
+  "DGS_HELPER_DOWNLOAD": "Download DGS Hjælper (Windows)",
+  "HOW_TO_USE": "Hvordan man bruger",
+  "DH_1": "I 'Setup' sektionen, klik på 'Apply game conf' knappen. Når det er gjort, genstart din spilklient. I 'Game client state' sektionen, skulle beskeden 'Game client connected' dukke op.",
+  "DH_2": "JSON-filerne vil blive gemt i den sædvanlige mappe, som kan åbnes ved hjælp af 'Open data folder' knappen.",
+  "DH_3": "Hver gang en kamp starter, vil data blive gemt i softwarebufferen. Når spillet slutter, vil bufferen blive gemt i en JSON-fil navngivet med den aktuelle dato og tid. Når spillet er startet, vil kampstatus skifte til 'Running'.",
+  "DH_4": "Du kan indstille 'Websocket forwarders', som vil sende og modtage data fra dine tilføjede servere. Dette er oven på den eksisterende spilfunktionalitet, og er rettet mod at lette udviklingen.",
+  "DH_RECOMMEND": "Det anbefales også at køre DGS Hjælper Software parallelt som en failsafe i tilfælde af netværksustabiliteter mellem din spilklient og DGS-serverne. Dette vil give dig mulighed for at gendanne eventuelle tabte data ved manuelt at uploade det. <a href='/tournament/dgs-helper' target='_blank'>Klik her for at downloade!</a>"
 }
